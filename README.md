@@ -25,10 +25,4 @@ Latihan atau eksplorasi GUI dilakukan dengan mencoba membuat komponen-komponent 
 | **Layout Classes** | `BorderLayout`, `GridLayout`, `FlowLayout` | Pengaturan tata letak komponen |
 | **Event Handling** | `ActionListener`, `WindowAdapter` | Menangani aksi tombol & event jendela |
 
----
 
-## 🛠️ Cara Menjalankan Program
-
-1. **Clone repository ini:**
-   ```bash
-   git clone [https://github.com/akifazahratunnisah-code/repo_akifajs.git](https://github.com/akifazahratunnisah-code/repo_akifajs.git)
