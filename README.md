@@ -1,7 +1,8 @@
-#  Eksplorasi & Latihan GUI (Java Swing)
+# Eksplorasi GUI — Pemrograman Berorientasi Objek
 
-Repository ini berisi latihan dan eksplorasi pemrograman berbasis **Graphical User Interface (GUI)** menggunakan Java.
-
+- **Nama:** Akifa Naila Zahratunnisah
+- **NIM:** F1D02510036
+- **Judul Tugas:** Latihan dan Eksplorasi Graphical User Interface (GUI)
 ---
 
 ##  Tujuan Latihan
