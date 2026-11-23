@@ -27,3 +27,12 @@ Latihan atau eksplorasi GUI dilakukan dengan mencoba membuat komponen-komponent 
 | **Event Handling** | `ActionListener`, `WindowAdapter` | Menangani aksi tombol & event jendela |
 
 
+---
+
+## Tampilan Aplikasi GUI
+
+### 1. Kondisi Awal / Setelah Klik Hapus
+![Tampilan GUI Kosong](Screenshot%202026-11-24%20070953.png)
+
+### 2. Kondisi Setelah Input & Klik Kirim
+![Tampilan GUI Setelah Kirim](Screenshot%202026-11-24%20070947.png)
